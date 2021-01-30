@@ -1,0 +1,5 @@
+/__pycache__
+/.idea
+/.python-version
+/crawl.log
+/data.db
